@@ -1,0 +1,68 @@
+/* GENERAL STYLES */
+* {
+    box-sizing: border-box;
+}
+
+/*TAGS*/
+body {
+    padding-top: 150px;
+    padding-left: 500px;
+
+}
+
+/* FORM STYLES */
+
+form {
+    border: 3px;
+    border-style: groove;
+    width: 300px;
+    height: 500px;
+    padding: 20px;
+}
+
+/* TEXT STYLES */
+h1 {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #6196EA;
+}
+
+/* BUTTON STYLES */
+.button {
+    border: 0;
+    background-color: rgb(98, 150, 236);
+    width: 60px;
+    height: 25px;
+    color: white;
+    border-style: solid;
+}
+
+/* INPUT STYLES */
+#fullname {
+    width: 250px;
+    padding: 4px;
+
+}
+
+#email {
+    width: 250px;
+    padding: 4px;
+
+}
+
+#phone {
+    width: 250px;
+    padding: 4px;
+
+}
+
+#password {
+    width: 250px;
+    padding: 4px;
+
+}
+/* SPAN STYLES */
+span {
+    color: red;
+}
